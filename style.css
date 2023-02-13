@@ -1,0 +1,89 @@
+body{
+    background-image: linear-gradient(yellow, white);
+    /* margin: 2%; */
+    padding-left: 10px;
+    font-family: 'Varela Round', sans-serif;
+    
+        width: auto;
+        height: auto;
+      margin-right: 4%;
+}
+.channel{
+    text-align: center;
+    font-size: 30px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(0, 81, 255);
+    text-shadow: 10px 3px 6px black;
+}
+.config{
+    text-align: center;
+    height: auto;
+    width: auto;
+}
+.camera{
+    text-align: center;
+    height: auto;
+    width: auto;
+}
+.config-link{
+    text-decoration: wavy;
+    text-decoration-line: underline;
+    color: rgb(0, 60, 255);
+    
+}
+
+.hr{
+    color: black;
+    border: 2px solid black;
+}
+.video{
+    border: 2px solid black;
+    border-radius: 10px;
+}
+.config-name{
+    font-size: 30px;
+}
+.tr{
+    width: 250px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    background-image: linear-gradient(rgb(0, 132, 255), rgb(255, 255, 255));
+    border: 2px solid black;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px;
+}
+#trans{
+    display: flex;
+    justify-content: center;
+}
+.translate{
+    text-decoration: none;
+    margin-top: 10px;
+    color: black;
+    font-weight: 500;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.tr1{
+    color: white;
+    font-weight: 700;
+    /* width: auto; */
+    background: linear-gradient(to top right, #ff5050 0%, #990000 100%);
+    width: 200px;
+    text-align: center;
+    box-shadow: 8px 5px 20px rgb(0, 0, 0);
+}
+.tr2{
+    color: rgb(255, 255, 255);
+    /* font-weight: 700; */
+    text-shadow: 5px 5px 5px black;
+}
+.copy{
+    margin-top: 10%;
+    border:2px solid #090909;
+    width: auto;
+    background: linear-gradient(to top right, #3399ff 0%, #003399 100%);
+}
+.color{
+    text-shadow: 5px 5px 5px black;
+}
